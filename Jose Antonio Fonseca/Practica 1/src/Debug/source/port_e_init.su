@@ -1,0 +1,6 @@
+fsl_clock.h:584:20:CLOCK_EnableClock	24	static
+fsl_port.h:321:20:PORT_SetPinMux	24	static
+fsl_gpio.h:157:20:GPIO_WritePinOutput	24	static
+fsl_gpio.h:198:20:GPIO_ClearPinsOutput	16	static
+port_e_init.c:5:6:port_e_init	8	static
+port_e_init.c:22:6:write_port_e	16	static
